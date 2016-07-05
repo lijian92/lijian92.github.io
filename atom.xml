@@ -1,17 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Do What Hackers Do]]></title>
   <link href="http://lijian92.github.io/atom.xml" rel="self"/>
   <link href="http://lijian92.github.io/"/>
-  <updated>2016-07-04T22:56:06+08:00</updated>
+  <updated>2016-07-05T11:03:33+08:00</updated>
   <id>http://lijian92.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[李健]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ASR]]></title>
+    <link href="http://lijian92.github.io/blog/2016/07/04/asr/"/>
+    <updated>2016-07-04T23:06:30+08:00</updated>
+    <id>http://lijian92.github.io/blog/2016/07/04/asr</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Second Blog]]></title>
+    <link href="http://lijian92.github.io/blog/2016/07/04/second-blog/"/>
+    <updated>2016-07-04T23:02:25+08:00</updated>
+    <id>http://lijian92.github.io/blog/2016/07/04/second-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to Hack]]></title>

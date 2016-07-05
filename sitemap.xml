@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://lijian92.github.io/blog/2016/07/04/asr/</loc>
+<lastmod>2016-07-04T23:06:30+08:00</lastmod>
+</url>
+<url>
+<loc>http://lijian92.github.io/blog/2016/07/04/second-blog/</loc>
+<lastmod>2016-07-04T23:02:25+08:00</lastmod>
+</url>
+<url>
 <loc>http://lijian92.github.io/blog/2016/07/04/how-to-hack/</loc>
 <lastmod>2016-07-04T22:52:33+08:00</lastmod>
 </url>
@@ -9,9 +17,15 @@
 <lastmod>2016-07-04T22:51:27+08:00</lastmod>
 </url>
 <url>
+<loc>http://lijian92.github.io/404.html</loc>
+</url>
+<url>
 <loc>http://lijian92.github.io/</loc>
 </url>
 <url>
 <loc>http://lijian92.github.io/blog/archives/</loc>
+</url>
+<url>
+<loc>http://lijian92.github.io/aboutme/</loc>
 </url>
 </urlset>
